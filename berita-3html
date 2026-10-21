@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Beranda</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body bgcolor="Bluepastel" background="images/background.svg">
+    <!-- Halaman web tanpa CSS. Murni hanya memakai HTML -->
+    <p>&nbsp;</p>
+    <table border="1" width="800px" cellpadding="12px" align="center" bgcolor="grey">
+        <tr>
+            <td colspan="2" align="center" bgcolor="teal" background="images/jaring-teal.svg">
+                <font color="white">
+                    <p>&nbsp;</p>
+                    <h1>Website Intan</h1>
+                    <p><em>Berlian yang cantik dan menawan.</em></p>
+                    <p>&nbsp;</p>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" bgcolor="pink">
+                <a href="./">Beranda</a> |
+                <a href="tentang-saya.html">Tentang Saya</a> |
+                <a href="sekolahku.html">Sekolahku</a> |
+                <a href="syair-lagu.html">Lagu Favorit </a>
+            </td>
+        </tr>
+        <tr>
+            <td width="75%">
+                <!-- Content utama -->
+
+                <h3>Kebakaran Hutan di Gunung Bromo, Lima Petugas Dilaporkan Tewas</h3>
+                <p align="right"><small><em>Selasa, 20 Oktober 2026</em></small></p>
+                <p>Kebakaran hutan di kawasan Gunung Bromo masih dalam proses penanganan tim gabungan pada Selasa (20/10/2026). 
+                Upaya pemadaman menghadapi kendala berupa medan yang curam sehingga menyulitkan petugas menjangkau titik api.
+                Berdasarkan laporan media, lima petugas dilaporkan tewas dalam insiden kebakaran tersebut.</p>
+                <p><a href="berita-3.html">Selanjutnya</a></p>
+
+                <!-- Akhir dari content utama -->
+            </td>
+            <td width="25%" valign="top" bgcolor="lightgrey">
+                <p>Tautan eksternal</p>
+                <ol>
+                    <li><a href="https://www.Instagram.or.id">Instagram</a></li>
+                    <li><a href="https://www.Tiktok.com">Tiktok</a></li>
+                    <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+                    <li><a href="https://www.w3schools.com">W3Schools</a></li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="right" bgcolor="black">
+                <font color="white"><small>&copy; Copyright Intan Aulia, 2026.</small></font>
+            </td>
+        </tr>
+    </table>
+    <p>&nbsp;</p>
+</body>
+
+</html>
