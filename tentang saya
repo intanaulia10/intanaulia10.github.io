@@ -1,55 +1,63 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <title>Tentang Saya - Intan</title>
+    <title>Beranda</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
-<body bgcolor="#4a2c2a">
+<body bgcolor="maroon" background="images/background.svg">
+    <!-- Halaman web tanpa CSS. Murni hanya memakai HTML -->
     <p>&nbsp;</p>
-    <table border="1" width="800px" cellpadding="12px" align="center" bgcolor="#fffaf0">
+    <table border="1" width="800px" cellpadding="12px" align="center" bgcolor="pink">
         <tr>
-            <td colspan="2" align="center" bgcolor="#800000">
+            <td colspan="2" align="center" bgcolor="purple" background="images/jaring-teal.svg">
                 <font color="white">
                     <p>&nbsp;</p>
-                    <h1>Website Intan</h1>
-                    <p><em>Berlian yang cantik dan menawan.</em></p>
+                    <h1>Joel's Web :o</h1>
+                    <p><em>멩엘자칸 삼빌 낭이스.</em></p>
                     <p>&nbsp;</p>
                 </font>
             </td>
         </tr>
         <tr>
-            <td colspan="2" bgcolor="#8b4513">
-                <font color="white">
-                    <a href="./"><font color="white">Beranda</font></a> |
-                    <a href="tentang-saya.html"><font color="white">Tentang Saya</font></a> |
-                    <a href="sekolahku.html"><font color="white">Sekolahku</font></a> |
-                    <a href="syair-lagu.html"><font color="white">Syair Lagu</font></a>
-                </font>
+            <td colspan="2" bgcolor="yellow">
+                <a href="./">Beranda</a> |
+                <a href="tentang-saya.html">About MeEe</a> |
+                <a href="sekolahku.html">Friends?</a> |
+                <a href="syair-lagu.html">Kpop!</a>
             </td>
         </tr>
         <tr>
-            <td width="75%" valign="top">
-                <h3>Tentang Saya</h3>
-                <p>Halo! Nama saya <b>Intan Aulia</b>. Saya adalah siswi SMK PGRI 1 Kota Tangerang jurusan Desain Komunikasi Visual (DKV). Saya suka menggambar, mendesain, dan mengedit video. Saya ingin terus belajar dan mengembangkan kemampuan saya di bidang desain..</p>
-                <p>Melalui website ini, saya ingin membagikan berbagai karya, pengalaman belajar, serta informasi seputar dunia seni dan desain yang sedang saya tekuni.</p>
+            <td width="75%">
+                <!-- Content utama -->
+              
+                <h3>About MeEe</h3>
+                <p align="right"><small><em></em></small></p>
+                <p>Haii! Kenalin, aku kei. IyaAa bener kei, aku lah orang dibalik nama Joel hehehehe. Aku adalah siswi jurusan Desain Komunikasi Visual (DKV) yang tertarik pada dunia kreatif, desain, dan seni visual. Aku senang mempelajari hal-hal baru, terutama bahasa Korea dan budaya Korea. 
+                  Aku juga menyukai K-Pop lohh!! Menurut akuu itu sebagai salah satu bentuk ketertarikan aku terhadap dunia industri musik dan hiburan Korea.
+                  Di waktu luang, saya senang membaca buku serta menonton film bergenre thriller dan romantis. Berbagai hobi tersebut menjadi cara akuu untuk mencari hiburan, 
+                  menambah wawasan, dan mendapatkan inspirasi baru.</p>
+                <p><a href="berita-3.html">Selanjutnya</a></p>
+
+                <!-- Akhir dari content utama -->
             </td>
-            <td width="25%" valign="top" bgcolor="#f5eedc">
-                <p><b>Tautan eksternal</b></p>
+            <td width="25%" valign="top" bgcolor="white">
+                <p>Tautan eksternal</p>
                 <ol>
-                    <li><a href="https://www.Instagram.or.id">Instagram</a></li>
-                    <li><a href="https://www.Tiktok.com">Tiktok</a></li>
-                    <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
-                    <li><a href="https://www.w3schools.com">W3Schools</a></li>
+                    <li><a href="https://www.mawan.or.id">Pinterest</a></li>
+                    <li><a href="https://www.github.com">Instagram</a></li>
+                    <li><a href="https://www.wikipedia.org">Youtube</a></li>
+                    <li><a href="https://www.w3schools.com">Spotify</a></li>
                 </ol>
             </td>
         </tr>
         <tr>
-            <td colspan="2" align="right" bgcolor="#2b1810">
-                <font color="white"><small>&copy; Copyright Intan Aulia, 2026.</small></font>
+            <td colspan="2" align="right" bgcolor="babyblue">
+                <font color="white"><small>&copy; Copyright Joel a.k.a Kezia D, 2026.</small></font>
             </td>
         </tr>
     </table>
     <p>&nbsp;</p>
 </body>
+
 </html>
