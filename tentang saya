@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="id">
 <head>
-    <title>Tentang Saya - Ganis</title>
+    <title>Tentang Saya - Intan</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
 </head>
 
@@ -37,16 +37,16 @@
             <td width="25%" valign="top" bgcolor="#f5eedc">
                 <p><b>Tautan eksternal</b></p>
                 <ol>
-                    <li><a href="https://www.Instagram.com">Instagram</a></li>
+                    <li><a href="https://www.Instagram.or.id">Instagram</a></li>
+                    <li><a href="https://www.Tiktok.com">Tiktok</a></li>
                     <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
                     <li><a href="https://www.w3schools.com">W3Schools</a></li>
-                    <li><a href="https://www.Tiktok.com">Tiktok</a></li>
                 </ol>
             </td>
         </tr>
         <tr>
             <td colspan="2" align="right" bgcolor="#2b1810">
-                <font color="white"><small>&copy; Copyright Intan, 2026.</small></font>
+                <font color="white"><small>&copy; Copyright Intan Aulia, 2026.</small></font>
             </td>
         </tr>
     </table>
