@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Syair Lagu - Ganis</title>
+    <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
+
+<body bgcolor="#4a2c2a">
+    <p>&nbsp;</p>
+    <table border="1" width="800px" cellpadding="12px" align="center" bgcolor="#fffaf0">
+        <tr>
+            <td colspan="2" align="center" bgcolor="#800000">
+                <font color="white">
+                    <p>&nbsp;</p>
+                    <h1>Website Ganis</h1>
+                    <p><em>Kreativitas tanpa batas, berkarya dengan semangat.</em></p>
+                    <p>&nbsp;</p>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" bgcolor="#8b4513">
+                <font color="white">
+                    <a href="./"><font color="white">Beranda</font></a> |
+                    <a href="tentang-saya.html"><font color="white">Tentang Saya</font></a> |
+                    <a href="sekolahku.html"><font color="white">Sekolahku</font></a> |
+                    <a href="syair-lagu.html"><font color="white">Syair Lagu</font></a>
+                </font>
+            </td>
+        </tr>
+        <tr>
+            <td width="75%" valign="top">
+                <h3>Lirik Lagu Favorit</h3>
+                <p><b>Judul:</b> Mengejar Matahari</p>
+                <p><b>Penyanyi:</b> Ari Lasso</p>
+                <hr>
+                <p>
+                    Tunjukkan pada dunia<br>
+                    Arti sahabat yang sejati<br>
+                    Apapun yang terjadi<br>
+                    Ku 'kan selalu ada di sampingmu<br><br>
+                    Tetes air mata ini<br>
+                    Tak 'kan sanggup untuk menghapus<br>
+                    Kenangan indah yang pernah ada<br>
+                    Di antara kita...
+                </p>
+            </td>
+            <td width="25%" valign="top" bgcolor="#f5eedc">
+                <p><b>Tautan eksternal</b></p>
+                <ol>
+                    <li><a href="https://www.github.com">Github</a></li>
+                    <li><a href="https://www.wikipedia.org">Wikipedia</a></li>
+                    <li><a href="https://www.w3schools.com">W3Schools</a></li>
+                    <li><a href="https://www.canva.com">Canva</a></li>
+                </ol>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="right" bgcolor="#2b1810">
+                <font color="white"><small>&copy; Copyright Ganis, 2026.</small></font>
+            </td>
+        </tr>
+    </table>
+    <p>&nbsp;</p>
+</body>
+</html>
